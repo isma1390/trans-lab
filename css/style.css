@@ -1,1 +1,38 @@
-/* YeyeYeee código aquí */
+.firstSection{
+  background-color: rgb(26, 24, 24);
+}
+.imagenLogo{
+  height: 35%;
+  padding: 10%;
+}
+
+.col-sm{
+text-align: center;
+}
+.secondSection{
+  background-color : rgb(26, 24, 24);
+}
+.btn{
+  background-color: rgb(240, 104, 13);
+}
+.btn1Spacio {
+  margin: 35%;
+  width: 40%;
+
+}
+.btn1{
+  width: 100%;
+  text-align: center;
+  margin: 5%;
+  
+}
+.btn2 {
+  width: 100%;
+  text-align: center;
+  margin:5%;
+}
+.btn3 {
+  width: 100%;
+  text-align: center;
+  margin: 5%;
+}

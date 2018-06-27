@@ -1,5 +1,6 @@
 .firstSection{
   background-color: rgb(26, 24, 24);
+
 }
 .imagenLogo{
   height: 35%;
@@ -11,6 +12,7 @@ text-align: center;
 }
 .secondSection{
   background-color : rgb(26, 24, 24);
+  display: none;
 }
 .btn{
   background-color: rgb(240, 104, 13);

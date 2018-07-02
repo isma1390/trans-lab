@@ -6,35 +6,52 @@
   height: 35%;
   padding: 10%;
 }
-
+h1{
+  color: rgb(214, 150, 13);
+}
+.colorCorreo{
+  color: white;
+}
 .col-sm{
 text-align: center;
 }
 .secondSection{
   background-color : rgb(26, 24, 24);
-  display: none;
 }
 .btn{
   background-color: rgb(240, 104, 13);
 }
+.nav-link{
+  color: rgb(214, 150, 13);
+}
 .btn1Spacio {
   margin: 35%;
   width: 40%;
-
 }
+.col-smMenu{
+ display: inherit;
+ text-align: center;
+}
+
 .btn1{
-  width: 100%;
+  width: 80%;
   text-align: center;
   margin: 5%;
+  background-color : rgb(240, 104, 13);
+  border : 0;
   
 }
 .btn2 {
-  width: 100%;
+  width: 80%;
   text-align: center;
   margin:5%;
+  background-color : rgb(240, 104, 13);
+  border: 0;
 }
 .btn3 {
-  width: 100%;
+  width: 80%;
   text-align: center;
   margin: 5%;
+  background-color : rgb(240, 104, 13);
+  border: 0%;
 }
